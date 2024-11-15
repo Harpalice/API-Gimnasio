@@ -14,7 +14,7 @@ El sistema es una API REST diseñada para la gestión de actividades en un entor
 * GET /api/actividades
 Devuelve todos los boletos disponibles en la base de datos, permitiendo opcionalmente aplicar ordenamiento a los resultados.
 
-    -Ordenamiento
+    Ordenamiento
 
 ## DER
 ![DER](./DER.png)
