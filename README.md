@@ -14,7 +14,7 @@ El sistema es una API REST diseñada para la gestión de actividades en un entor
 ---
 
 - **GET** `/api/actividades`
-    Devuelve todos los boletos disponibles en la base de datos, permitiendo opcionalmente aplicar ordenamiento a los resultados.
+    Devuelve todos los actividades disponibles en la base de datos, permitiendo opcionalmente aplicar ordenamiento a los resultados.
 
     - **Ordenamiento**:  
       - `orderBy`: Campo por el que se desea ordenar los resultados. Los campos válidos pueden incluir:
