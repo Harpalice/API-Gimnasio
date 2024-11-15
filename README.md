@@ -22,7 +22,7 @@ El sistema es una API REST diseñada para la gestión de actividades en un entor
         - `entrenadores`: Ordena las actividades por el id de entrenadores.
 
         **Ejemplo de Ordenamiento**:  
-      Para obtener todos las actiidades ordenados por nombre en orden alfabético:
+      Para obtener todos las actidades ordenados por nombre en orden alfabético:
       ```http
       GET api/actividades?orderBy=nombre
       ```
